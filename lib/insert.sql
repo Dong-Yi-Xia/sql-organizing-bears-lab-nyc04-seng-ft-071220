@@ -1,9 +1,10 @@
-INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Mr.Chocolate", 12, "M", "Black", "Nice", TRUE),
-("Rowdy", 13, "M", "Black", "Nice", TRUE),
-("Tabitha", 4, "F", "Brown", "Nice", TRUE),
-("Sergeant Brown", 20, "M", "Brown", "Mean", TRUE),
-("Melissa", 20, "F", "Brown", "Nice", TRUE),
-("Grinch", 22, "F", "Black", "Mean", TRUE),
-("Wendy", 15, "F", "Brown", "Nice", TRUE),
-(NULL, 10, "M", "White", "Nice", FALSE);
+INSERT INTO bears
+VALUES 
+(1, 'Mr.Chocolate', 8, 'M', 'brown', 'shy', TRUE),
+(2, 'Rowdy', 12, 'M', 'brown', 'playful', TRUE),
+(3, 'Tabitha', 15, 'F', 'black', 'outgoing', TRUE),
+(4, 'Sergeant Brown', 18, 'M', 'brown', 'mean', FALSE),
+(5, 'Melissa', 5, 'F', 'brown', 'joyful', TRUE),
+(6, 'Grinch', 20, 'M', 'black', 'quiet', TRUE),
+(7, 'Wendy', 3, 'F', 'black', 'adventurous', TRUE),
+(8, NULL, 28, 'M', 'brown', 'murderous', FALSE);
