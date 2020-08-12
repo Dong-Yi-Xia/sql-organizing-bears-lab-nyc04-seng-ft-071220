@@ -1,5 +1,5 @@
 INSERT INTO bears
-VALUES 
+VALUES
 (1, 'Mr.Chocolate', 8, 'M', 'brown', 'shy', TRUE),
 (2, 'Rowdy', 12, 'M', 'brown', 'playful', TRUE),
 (3, 'Tabitha', 15, 'F', 'black', 'outgoing', TRUE),
